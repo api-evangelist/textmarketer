@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Text Marketer is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://textmarketer.co.uk/
+Text Marketer provides business SMS marketing services in the UK, offering bulk SMS, web SMS, SMS surveys, incoming SMS, short codes, email‑to‑SMS, and API integration for businesses to engage customers via text messaging. Their platform includes a developer portal, pricing plans, and resources such as guides and webinars to help users implement SMS solutions efficiently.
+
+**Areas:** SMS · Marketing · UK · Business · Communications
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.textmarketer.co.uk/)
+- [Documentation](https://www.textmarketer.co.uk/developers/)
+- [Getting started](https://www.textmarketer.co.uk/sign-up/)
+- [API reference](https://www.textmarketer.co.uk/sms-gateway-api/)
+- [Pricing](https://www.textmarketer.co.uk/bulk-sms-prices/)
+- [Sign up](https://www.textmarketer.co.uk/sign-up/)
+- [Support](https://www.textmarketer.co.uk/contact-us/)
+- [Blog](https://www.textmarketer.co.uk/blog/)
+- [Terms of service](https://www.textmarketer.co.uk/termsandconditions/)
+- [Privacy policy](https://www.textmarketer.co.uk/privacy-policy/)
+- [GitHub](https://github.com/TextMarketer)
+- [Status](https://status.textmarketer.co.uk/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/textmarketer/](https://apis.io/providers/textmarketer/).
